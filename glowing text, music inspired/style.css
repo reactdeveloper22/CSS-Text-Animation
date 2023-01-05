@@ -1,0 +1,78 @@
+body {
+  background-color: #212121;
+  color: #4db1bc;
+  margin: 0;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  -ms-grid-rows: 1fr;
+      grid-template-rows: 1fr;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  justify-items: center;
+}
+
+body img {
+  width: 100%;
+  height: 100vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -ms-grid-column: 1;
+  grid-column: 1;
+  -ms-grid-row: 1;
+  grid-row: 1;
+  opacity: .7;
+  z-index: 0;
+}
+
+body h1 {
+  margin: 0;
+  padding-bottom: 6rem;
+  -ms-grid-column: 1;
+  grid-column: 1;
+  -ms-grid-row: 1;
+  grid-row: 1;
+  z-index: 1;
+  font-family: 'Teko', sans-serif;
+  font-size: 10rem;
+  text-transform: uppercase;
+  -webkit-animation: glow 2s ease-in-out infinite alternate;
+          animation: glow 2s ease-in-out infinite alternate;
+  text-align: center;
+}
+
+body a {
+  font-family: 'Teko', sans-serif;
+  color: #4db1bc;
+  -ms-grid-column: 1;
+  grid-column: 1;
+  -ms-grid-row: 1;
+  grid-row: 1;
+  -ms-flex-item-align: end;
+      -ms-grid-row-align: end;
+      align-self: end;
+  -ms-grid-column-align: center;
+      justify-self: center;
+  padding-bottom: 1rem;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 20px #2d9da9;
+  }
+  to {
+    text-shadow: 0 0 30px #34b3c1, 0 0 10px #4dbbc7;
+  }
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 20px #2d9da9;
+  }
+  to {
+    text-shadow: 0 0 30px #34b3c1, 0 0 10px #4dbbc7;
+  }
+}
+/*# sourceMappingURL=style.css.map */

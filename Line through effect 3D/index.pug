@@ -1,0 +1,7 @@
+- let text = 'Good day!';
+- let arr = text.split('');
+
+h1(role='img' aria-label=text)
+  - arr.forEach(letter => {
+    span.letter(class=Math.random() > .5 ? 'rev' : null) #{letter}
+  - });

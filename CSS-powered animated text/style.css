@@ -1,0 +1,923 @@
+@charset "UTF-8";
+@-webkit-keyframes typed {
+  /* string 1, char 1 */
+  0%, 0.54366% {
+    content: "C";
+  }
+  /* string 1, char 2 */
+  0.54466%, 1.08832% {
+    content: "CS";
+  }
+  /* string 1, char 3 */
+  1.08932%, 1.63299% {
+    content: "CSS";
+  }
+  /* string 1, char 4 */
+  1.63399%, 2.17765% {
+    content: "CSS ";
+  }
+  /* string 1, char 5 */
+  2.17865%, 2.72231% {
+    content: "CSS t";
+  }
+  /* string 1, char 6 */
+  2.72331%, 3.26697% {
+    content: "CSS ty";
+  }
+  /* string 1, char 7 */
+  3.26797%, 3.81164% {
+    content: "CSS typ";
+  }
+  /* string 1, char 8 */
+  3.81264%, 4.3563% {
+    content: "CSS type";
+  }
+  /* string 1, char 9 */
+  4.3573%, 4.90096% {
+    content: "CSS typed";
+  }
+  /* string 1, char 10 */
+  4.90196%, 5.44562% {
+    content: "CSS typed ";
+  }
+  /* string 1, char 11 */
+  5.44662%, 5.99029% {
+    content: "CSS typed t";
+  }
+  /* string 1, char 12 */
+  5.99129%, 6.53495% {
+    content: "CSS typed th";
+  }
+  /* string 1, char 13 */
+  6.53595%, 7.07961% {
+    content: "CSS typed thi";
+  }
+  /* string 1, char 14 */
+  7.08061%, 7.62427% {
+    content: "CSS typed this";
+  }
+  /* string 1, char 15 */
+  7.62527%, 8.16893% {
+    content: "CSS typed this ";
+  }
+  /* string 1, char 16 */
+  8.16993%, 8.7136% {
+    content: "CSS typed this s";
+  }
+  /* string 1, char 17 */
+  8.7146%, 9.25826% {
+    content: "CSS typed this st";
+  }
+  /* string 1, char 18 */
+  9.25926%, 9.80292% {
+    content: "CSS typed this str";
+  }
+  /* string 1, char 19 */
+  9.80392%, 10.34758% {
+    content: "CSS typed this stri";
+  }
+  /* string 1, char 20 */
+  10.34858%, 10.89225% {
+    content: "CSS typed this strin";
+  }
+  /* string 1, char 21 */
+  10.89325%, 11.43691% {
+    content: "CSS typed this string";
+  }
+  /* string 1, char 22 */
+  11.43791%, 23.31055% {
+    content: "CSS typed this string!";
+  }
+  /* string 1, char 23 */
+  23.31155%, 23.74628% {
+    content: "CSS typed this string";
+  }
+  /* string 1, char 24 */
+  23.74728%, 24.18201% {
+    content: "CSS typed this strin";
+  }
+  /* string 1, char 25 */
+  24.18301%, 24.61774% {
+    content: "CSS typed this stri";
+  }
+  /* string 1, char 26 */
+  24.61874%, 25.05347% {
+    content: "CSS typed this str";
+  }
+  /* string 1, char 27 */
+  25.05447%, 25.4892% {
+    content: "CSS typed this st";
+  }
+  /* string 1, char 28 */
+  25.4902%, 25.92493% {
+    content: "CSS typed this s";
+  }
+  /* string 1, char 29 */
+  25.92593%, 26.36066% {
+    content: "CSS typed this ";
+  }
+  /* string 1, char 30 */
+  26.36166%, 26.79639% {
+    content: "CSS typed this";
+  }
+  /* string 1, char 31 */
+  26.79739%, 27.23212% {
+    content: "CSS typed thi";
+  }
+  /* string 1, char 32 */
+  27.23312%, 27.66785% {
+    content: "CSS typed th";
+  }
+  /* string 1, char 33 */
+  27.66885%, 28.10358% {
+    content: "CSS typed t";
+  }
+  /* string 1, char 34 */
+  28.10458%, 28.53931% {
+    content: "CSS typed ";
+  }
+  /* string 1, char 35 */
+  28.54031%, 28.97503% {
+    content: "CSS typed";
+  }
+  /* string 1, char 36 */
+  28.97603%, 29.41076% {
+    content: "CSS type";
+  }
+  /* string 1, char 37 */
+  29.41176%, 29.84649% {
+    content: "CSS typ";
+  }
+  /* string 1, char 38 */
+  29.84749%, 30.28222% {
+    content: "CSS ty";
+  }
+  /* string 1, char 39 */
+  30.28322%, 30.71795% {
+    content: "CSS t";
+  }
+  /* string 1, char 40 */
+  30.71895%, 31.15368% {
+    content: "CSS ";
+  }
+  /* string 1, char 41 */
+  31.15468%, 31.58941% {
+    content: "CSS";
+  }
+  /* string 1, char 42 */
+  31.59041%, 32.02514% {
+    content: "CS";
+  }
+  /* string 1, char 43 */
+  32.02614%, 32.46087% {
+    content: "C";
+  }
+  /* string 1, char 44 */
+  32.46187%, 37.9075% {
+    content: "​";
+  }
+  /* string 2, char 1 */
+  37.9085%, 38.45216% {
+    content: "I";
+  }
+  /* string 2, char 2 */
+  38.45316%, 38.99682% {
+    content: "It";
+  }
+  /* string 2, char 3 */
+  38.99782%, 39.54148% {
+    content: "It ";
+  }
+  /* string 2, char 4 */
+  39.54248%, 40.08615% {
+    content: "It t";
+  }
+  /* string 2, char 5 */
+  40.08715%, 40.63081% {
+    content: "It ty";
+  }
+  /* string 2, char 6 */
+  40.63181%, 41.17547% {
+    content: "It typ";
+  }
+  /* string 2, char 7 */
+  41.17647%, 41.72013% {
+    content: "It type";
+  }
+  /* string 2, char 8 */
+  41.72113%, 42.2648% {
+    content: "It typed";
+  }
+  /* string 2, char 9 */
+  42.2658%, 42.80946% {
+    content: "It typed ";
+  }
+  /* string 2, char 10 */
+  42.81046%, 43.35412% {
+    content: "It typed t";
+  }
+  /* string 2, char 11 */
+  43.35512%, 43.89878% {
+    content: "It typed th";
+  }
+  /* string 2, char 12 */
+  43.89978%, 44.44344% {
+    content: "It typed thi";
+  }
+  /* string 2, char 13 */
+  44.44444%, 44.98811% {
+    content: "It typed this";
+  }
+  /* string 2, char 14 */
+  44.98911%, 45.53277% {
+    content: "It typed this ";
+  }
+  /* string 2, char 15 */
+  45.53377%, 46.07743% {
+    content: "It typed this o";
+  }
+  /* string 2, char 16 */
+  46.07843%, 46.62209% {
+    content: "It typed this on";
+  }
+  /* string 2, char 17 */
+  46.62309%, 47.16676% {
+    content: "It typed this one";
+  }
+  /* string 2, char 18 */
+  47.16776%, 47.71142% {
+    content: "It typed this one ";
+  }
+  /* string 2, char 19 */
+  47.71242%, 48.25608% {
+    content: "It typed this one t";
+  }
+  /* string 2, char 20 */
+  48.25708%, 48.80074% {
+    content: "It typed this one to";
+  }
+  /* string 2, char 21 */
+  48.80174%, 49.34541% {
+    content: "It typed this one too";
+  }
+  /* string 2, char 22 */
+  49.34641%, 49.89007% {
+    content: "It typed this one too ";
+  }
+  /* string 2, char 23 */
+  49.89107%, 61.76371% {
+    content: "It typed this one too 😱";
+  }
+  /* string 2, char 24 */
+  61.76471%, 62.19944% {
+    content: "It typed this one too ";
+  }
+  /* string 2, char 25 */
+  62.20044%, 62.63517% {
+    content: "It typed this one too";
+  }
+  /* string 2, char 26 */
+  62.63617%, 63.0709% {
+    content: "It typed this one to";
+  }
+  /* string 2, char 27 */
+  63.0719%, 63.50663% {
+    content: "It typed this one t";
+  }
+  /* string 2, char 28 */
+  63.50763%, 63.94236% {
+    content: "It typed this one ";
+  }
+  /* string 2, char 29 */
+  63.94336%, 64.37808% {
+    content: "It typed this one";
+  }
+  /* string 2, char 30 */
+  64.37908%, 64.81381% {
+    content: "It typed this on";
+  }
+  /* string 2, char 31 */
+  64.81481%, 65.24954% {
+    content: "It typed this o";
+  }
+  /* string 2, char 32 */
+  65.25054%, 65.68527% {
+    content: "It typed this ";
+  }
+  /* string 2, char 33 */
+  65.68627%, 66.121% {
+    content: "It typed this";
+  }
+  /* string 2, char 34 */
+  66.122%, 66.55673% {
+    content: "It typed thi";
+  }
+  /* string 2, char 35 */
+  66.55773%, 66.99246% {
+    content: "It typed th";
+  }
+  /* string 2, char 36 */
+  66.99346%, 67.42819% {
+    content: "It typed t";
+  }
+  /* string 2, char 37 */
+  67.42919%, 67.86392% {
+    content: "It typed ";
+  }
+  /* string 2, char 38 */
+  67.86492%, 68.29965% {
+    content: "It typed";
+  }
+  /* string 2, char 39 */
+  68.30065%, 68.73538% {
+    content: "It type";
+  }
+  /* string 2, char 40 */
+  68.73638%, 69.17111% {
+    content: "It typ";
+  }
+  /* string 2, char 41 */
+  69.17211%, 69.60684% {
+    content: "It ty";
+  }
+  /* string 2, char 42 */
+  69.60784%, 70.04257% {
+    content: "It t";
+  }
+  /* string 2, char 43 */
+  70.04357%, 70.4783% {
+    content: "It ";
+  }
+  /* string 2, char 44 */
+  70.4793%, 70.91403% {
+    content: "It";
+  }
+  /* string 2, char 45 */
+  70.91503%, 71.34976% {
+    content: "I";
+  }
+  /* string 2, char 46 */
+  71.35076%, 76.79639% {
+    content: "​";
+  }
+  /* string 3, char 1 */
+  76.79739%, 77.34105% {
+    content: "E";
+  }
+  /* string 3, char 2 */
+  77.34205%, 77.88571% {
+    content: "En";
+  }
+  /* string 3, char 3 */
+  77.88671%, 78.43037% {
+    content: "Enj";
+  }
+  /* string 3, char 4 */
+  78.43137%, 78.97503% {
+    content: "Enjo";
+  }
+  /* string 3, char 5 */
+  78.97603%, 79.5197% {
+    content: "Enjoy";
+  }
+  /* string 3, char 6 */
+  79.5207%, 80.06436% {
+    content: "Enjoy ";
+  }
+  /* string 3, char 7 */
+  80.06536%, 91.938% {
+    content: "Enjoy ☕";
+  }
+  /* string 3, char 8 */
+  91.939%, 92.37373% {
+    content: "Enjoy ";
+  }
+  /* string 3, char 9 */
+  92.37473%, 92.80946% {
+    content: "Enjoy";
+  }
+  /* string 3, char 10 */
+  92.81046%, 93.24519% {
+    content: "Enjo";
+  }
+  /* string 3, char 11 */
+  93.24619%, 93.68092% {
+    content: "Enj";
+  }
+  /* string 3, char 12 */
+  93.68192%, 94.11665% {
+    content: "En";
+  }
+  /* string 3, char 13 */
+  94.11765%, 94.55238% {
+    content: "E";
+  }
+  /* string 3, char 14 */
+  94.55338%, 100% {
+    content: "​";
+  }
+}
+@keyframes typed {
+  /* string 1, char 1 */
+  0%, 0.54366% {
+    content: "C";
+  }
+  /* string 1, char 2 */
+  0.54466%, 1.08832% {
+    content: "CS";
+  }
+  /* string 1, char 3 */
+  1.08932%, 1.63299% {
+    content: "CSS";
+  }
+  /* string 1, char 4 */
+  1.63399%, 2.17765% {
+    content: "CSS ";
+  }
+  /* string 1, char 5 */
+  2.17865%, 2.72231% {
+    content: "CSS t";
+  }
+  /* string 1, char 6 */
+  2.72331%, 3.26697% {
+    content: "CSS ty";
+  }
+  /* string 1, char 7 */
+  3.26797%, 3.81164% {
+    content: "CSS typ";
+  }
+  /* string 1, char 8 */
+  3.81264%, 4.3563% {
+    content: "CSS type";
+  }
+  /* string 1, char 9 */
+  4.3573%, 4.90096% {
+    content: "CSS typed";
+  }
+  /* string 1, char 10 */
+  4.90196%, 5.44562% {
+    content: "CSS typed ";
+  }
+  /* string 1, char 11 */
+  5.44662%, 5.99029% {
+    content: "CSS typed t";
+  }
+  /* string 1, char 12 */
+  5.99129%, 6.53495% {
+    content: "CSS typed th";
+  }
+  /* string 1, char 13 */
+  6.53595%, 7.07961% {
+    content: "CSS typed thi";
+  }
+  /* string 1, char 14 */
+  7.08061%, 7.62427% {
+    content: "CSS typed this";
+  }
+  /* string 1, char 15 */
+  7.62527%, 8.16893% {
+    content: "CSS typed this ";
+  }
+  /* string 1, char 16 */
+  8.16993%, 8.7136% {
+    content: "CSS typed this s";
+  }
+  /* string 1, char 17 */
+  8.7146%, 9.25826% {
+    content: "CSS typed this st";
+  }
+  /* string 1, char 18 */
+  9.25926%, 9.80292% {
+    content: "CSS typed this str";
+  }
+  /* string 1, char 19 */
+  9.80392%, 10.34758% {
+    content: "CSS typed this stri";
+  }
+  /* string 1, char 20 */
+  10.34858%, 10.89225% {
+    content: "CSS typed this strin";
+  }
+  /* string 1, char 21 */
+  10.89325%, 11.43691% {
+    content: "CSS typed this string";
+  }
+  /* string 1, char 22 */
+  11.43791%, 23.31055% {
+    content: "CSS typed this string!";
+  }
+  /* string 1, char 23 */
+  23.31155%, 23.74628% {
+    content: "CSS typed this string";
+  }
+  /* string 1, char 24 */
+  23.74728%, 24.18201% {
+    content: "CSS typed this strin";
+  }
+  /* string 1, char 25 */
+  24.18301%, 24.61774% {
+    content: "CSS typed this stri";
+  }
+  /* string 1, char 26 */
+  24.61874%, 25.05347% {
+    content: "CSS typed this str";
+  }
+  /* string 1, char 27 */
+  25.05447%, 25.4892% {
+    content: "CSS typed this st";
+  }
+  /* string 1, char 28 */
+  25.4902%, 25.92493% {
+    content: "CSS typed this s";
+  }
+  /* string 1, char 29 */
+  25.92593%, 26.36066% {
+    content: "CSS typed this ";
+  }
+  /* string 1, char 30 */
+  26.36166%, 26.79639% {
+    content: "CSS typed this";
+  }
+  /* string 1, char 31 */
+  26.79739%, 27.23212% {
+    content: "CSS typed thi";
+  }
+  /* string 1, char 32 */
+  27.23312%, 27.66785% {
+    content: "CSS typed th";
+  }
+  /* string 1, char 33 */
+  27.66885%, 28.10358% {
+    content: "CSS typed t";
+  }
+  /* string 1, char 34 */
+  28.10458%, 28.53931% {
+    content: "CSS typed ";
+  }
+  /* string 1, char 35 */
+  28.54031%, 28.97503% {
+    content: "CSS typed";
+  }
+  /* string 1, char 36 */
+  28.97603%, 29.41076% {
+    content: "CSS type";
+  }
+  /* string 1, char 37 */
+  29.41176%, 29.84649% {
+    content: "CSS typ";
+  }
+  /* string 1, char 38 */
+  29.84749%, 30.28222% {
+    content: "CSS ty";
+  }
+  /* string 1, char 39 */
+  30.28322%, 30.71795% {
+    content: "CSS t";
+  }
+  /* string 1, char 40 */
+  30.71895%, 31.15368% {
+    content: "CSS ";
+  }
+  /* string 1, char 41 */
+  31.15468%, 31.58941% {
+    content: "CSS";
+  }
+  /* string 1, char 42 */
+  31.59041%, 32.02514% {
+    content: "CS";
+  }
+  /* string 1, char 43 */
+  32.02614%, 32.46087% {
+    content: "C";
+  }
+  /* string 1, char 44 */
+  32.46187%, 37.9075% {
+    content: "​";
+  }
+  /* string 2, char 1 */
+  37.9085%, 38.45216% {
+    content: "I";
+  }
+  /* string 2, char 2 */
+  38.45316%, 38.99682% {
+    content: "It";
+  }
+  /* string 2, char 3 */
+  38.99782%, 39.54148% {
+    content: "It ";
+  }
+  /* string 2, char 4 */
+  39.54248%, 40.08615% {
+    content: "It t";
+  }
+  /* string 2, char 5 */
+  40.08715%, 40.63081% {
+    content: "It ty";
+  }
+  /* string 2, char 6 */
+  40.63181%, 41.17547% {
+    content: "It typ";
+  }
+  /* string 2, char 7 */
+  41.17647%, 41.72013% {
+    content: "It type";
+  }
+  /* string 2, char 8 */
+  41.72113%, 42.2648% {
+    content: "It typed";
+  }
+  /* string 2, char 9 */
+  42.2658%, 42.80946% {
+    content: "It typed ";
+  }
+  /* string 2, char 10 */
+  42.81046%, 43.35412% {
+    content: "It typed t";
+  }
+  /* string 2, char 11 */
+  43.35512%, 43.89878% {
+    content: "It typed th";
+  }
+  /* string 2, char 12 */
+  43.89978%, 44.44344% {
+    content: "It typed thi";
+  }
+  /* string 2, char 13 */
+  44.44444%, 44.98811% {
+    content: "It typed this";
+  }
+  /* string 2, char 14 */
+  44.98911%, 45.53277% {
+    content: "It typed this ";
+  }
+  /* string 2, char 15 */
+  45.53377%, 46.07743% {
+    content: "It typed this o";
+  }
+  /* string 2, char 16 */
+  46.07843%, 46.62209% {
+    content: "It typed this on";
+  }
+  /* string 2, char 17 */
+  46.62309%, 47.16676% {
+    content: "It typed this one";
+  }
+  /* string 2, char 18 */
+  47.16776%, 47.71142% {
+    content: "It typed this one ";
+  }
+  /* string 2, char 19 */
+  47.71242%, 48.25608% {
+    content: "It typed this one t";
+  }
+  /* string 2, char 20 */
+  48.25708%, 48.80074% {
+    content: "It typed this one to";
+  }
+  /* string 2, char 21 */
+  48.80174%, 49.34541% {
+    content: "It typed this one too";
+  }
+  /* string 2, char 22 */
+  49.34641%, 49.89007% {
+    content: "It typed this one too ";
+  }
+  /* string 2, char 23 */
+  49.89107%, 61.76371% {
+    content: "It typed this one too 😱";
+  }
+  /* string 2, char 24 */
+  61.76471%, 62.19944% {
+    content: "It typed this one too ";
+  }
+  /* string 2, char 25 */
+  62.20044%, 62.63517% {
+    content: "It typed this one too";
+  }
+  /* string 2, char 26 */
+  62.63617%, 63.0709% {
+    content: "It typed this one to";
+  }
+  /* string 2, char 27 */
+  63.0719%, 63.50663% {
+    content: "It typed this one t";
+  }
+  /* string 2, char 28 */
+  63.50763%, 63.94236% {
+    content: "It typed this one ";
+  }
+  /* string 2, char 29 */
+  63.94336%, 64.37808% {
+    content: "It typed this one";
+  }
+  /* string 2, char 30 */
+  64.37908%, 64.81381% {
+    content: "It typed this on";
+  }
+  /* string 2, char 31 */
+  64.81481%, 65.24954% {
+    content: "It typed this o";
+  }
+  /* string 2, char 32 */
+  65.25054%, 65.68527% {
+    content: "It typed this ";
+  }
+  /* string 2, char 33 */
+  65.68627%, 66.121% {
+    content: "It typed this";
+  }
+  /* string 2, char 34 */
+  66.122%, 66.55673% {
+    content: "It typed thi";
+  }
+  /* string 2, char 35 */
+  66.55773%, 66.99246% {
+    content: "It typed th";
+  }
+  /* string 2, char 36 */
+  66.99346%, 67.42819% {
+    content: "It typed t";
+  }
+  /* string 2, char 37 */
+  67.42919%, 67.86392% {
+    content: "It typed ";
+  }
+  /* string 2, char 38 */
+  67.86492%, 68.29965% {
+    content: "It typed";
+  }
+  /* string 2, char 39 */
+  68.30065%, 68.73538% {
+    content: "It type";
+  }
+  /* string 2, char 40 */
+  68.73638%, 69.17111% {
+    content: "It typ";
+  }
+  /* string 2, char 41 */
+  69.17211%, 69.60684% {
+    content: "It ty";
+  }
+  /* string 2, char 42 */
+  69.60784%, 70.04257% {
+    content: "It t";
+  }
+  /* string 2, char 43 */
+  70.04357%, 70.4783% {
+    content: "It ";
+  }
+  /* string 2, char 44 */
+  70.4793%, 70.91403% {
+    content: "It";
+  }
+  /* string 2, char 45 */
+  70.91503%, 71.34976% {
+    content: "I";
+  }
+  /* string 2, char 46 */
+  71.35076%, 76.79639% {
+    content: "​";
+  }
+  /* string 3, char 1 */
+  76.79739%, 77.34105% {
+    content: "E";
+  }
+  /* string 3, char 2 */
+  77.34205%, 77.88571% {
+    content: "En";
+  }
+  /* string 3, char 3 */
+  77.88671%, 78.43037% {
+    content: "Enj";
+  }
+  /* string 3, char 4 */
+  78.43137%, 78.97503% {
+    content: "Enjo";
+  }
+  /* string 3, char 5 */
+  78.97603%, 79.5197% {
+    content: "Enjoy";
+  }
+  /* string 3, char 6 */
+  79.5207%, 80.06436% {
+    content: "Enjoy ";
+  }
+  /* string 3, char 7 */
+  80.06536%, 91.938% {
+    content: "Enjoy ☕";
+  }
+  /* string 3, char 8 */
+  91.939%, 92.37373% {
+    content: "Enjoy ";
+  }
+  /* string 3, char 9 */
+  92.37473%, 92.80946% {
+    content: "Enjoy";
+  }
+  /* string 3, char 10 */
+  92.81046%, 93.24519% {
+    content: "Enjo";
+  }
+  /* string 3, char 11 */
+  93.24619%, 93.68092% {
+    content: "Enj";
+  }
+  /* string 3, char 12 */
+  93.68192%, 94.11665% {
+    content: "En";
+  }
+  /* string 3, char 13 */
+  94.11765%, 94.55238% {
+    content: "E";
+  }
+  /* string 3, char 14 */
+  94.55338%, 100% {
+    content: "​";
+  }
+}
+
+@-webkit-keyframes beam-blink {
+  75% {
+    border-color: transparent;
+  }
+}
+
+@keyframes beam-blink {
+  75% {
+    border-color: transparent;
+  }
+}
+
+* {
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #000;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.125), rgba(255, 255, 255, 0)), linear-gradient(to bottom, #000, #000 2px, #111 3px);
+  background-repeat: repeat-y;
+  background-position: center center;
+  background-size: cover, 100% 3px;
+  font-size: calc(10px + 2vw);
+  font-family: 'VT323', monospace, sans-serif;
+  color: #3f3;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body::after {
+  content: "​";
+  position: relative;
+  top: -13px;
+  display: inline-block;
+  padding-right: 3px;
+  padding-right: calc(3px + 0.1vw);
+  border-right: 10px solid rgba(51, 255, 51, 0.75);
+  border-right: calc(1.1vw + 4px) solid rgba(51, 255, 51, 0.75);
+  text-shadow: 0 0 5px rgba(51, 255, 51, 0.75);
+  white-space: nowrap;
+  -webkit-animation: typed 18.36s linear 1s infinite, beam-blink 1s infinite;
+          animation: typed 18.36s linear 1s infinite, beam-blink 1s infinite;
+}
+
+@media (max-width: 575px) {
+  body::after {
+    top: -33px;
+  }
+}
+
+body::before {
+  content: "3 strings / 52 chars / 18.36s duration";
+  display: block;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 3px 0;
+  background: #00f;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  letter-spacing: 0.7px;
+  white-space: pre-wrap;
+}
+
+@media (max-width: 575px) {
+  body::before {
+    content: "3 strings \a 52 chars \a 18.36s duration";
+  }
+}
+/*# sourceMappingURL=style.css.map */
